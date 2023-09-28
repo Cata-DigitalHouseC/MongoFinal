@@ -1,0 +1,51 @@
+Acousticness,ArtistName,BeatsPerMinute,Danceability,Energy,Genre,Length,Liveness,LoudnessdB,Popularity,Speechiness,Top,TrackName,Valence,_id
+4,Shawn Mendes,117,76,55,canadian pop,191,8,-6,79,3,1,Se�orita,75,6508ea4204fd0d1182edcd40
+8,Anuel AA,105,79,81,reggaeton flow,302,8,-4,92,9,2,China,61,6508ea4204fd0d1182edcd41
+12,Ariana Grande,190,40,80,dance pop,186,16,-4,85,46,3,boyfriend (with Social House),70,6508ea4204fd0d1182edcd42
+12,Ed Sheeran,93,64,65,pop,198,8,-8,86,19,4,Beautiful People (feat. Khalid),55,6508ea4204fd0d1182edcd43
+45,Post Malone,150,58,65,dfw rap,175,11,-4,94,7,5,Goodbyes (Feat. Young Thug),18,6508ea4204fd0d1182edcd44
+9,Ed Sheeran,102,80,68,pop,220,9,-5,84,4,6,"I Don't Care (with Justin Bieber)",84,6508ea4204fd0d1182edcd45
+2,Lil Tecca,180,75,64,trap music,131,7,-6,92,29,7,Ransom,23,6508ea4204fd0d1182edcd46
+15,Sam Smith,111,48,68,pop,202,8,-5,90,9,8,How Do You Sleep?,35,6508ea4204fd0d1182edcd47
+5,Lil Nas X,136,88,62,country rap,157,11,-6,87,10,9,Old Town Road - Remix,64,6508ea4204fd0d1182edcd48
+33,Billie Eilish,135,70,43,electropop,194,10,-11,95,38,10,bad guy,56,6508ea4204fd0d1182edcd49
+60,Bad Bunny,176,61,62,reggaeton,251,24,-5,93,31,11,Callaita,24,6508ea4204fd0d1182edcd4a
+28,DJ Snake,96,82,71,dance pop,185,15,-4,86,7,12,Loco Contigo (feat. J. Balvin & Tyga),38,6508ea4204fd0d1182edcd4b
+75,Lewis Capaldi,110,50,41,pop,182,11,-6,88,3,13,Someone You Loved,45,6508ea4204fd0d1182edcd4c
+7,Sech,176,73,79,panamanian pop,288,6,-2,87,20,14,Otro Trago - Remix,76,6508ea4204fd0d1182edcd4d
+10,Drake,101,83,50,canadian hip hop,205,12,-4,92,5,15,Money In The Grave (Drake ft. Rick Ross),10,6508ea4204fd0d1182edcd4e
+12,Chris Brown,93,70,45,dance pop,261,16,-7,82,15,16,No Guidance (feat. Drake),14,6508ea4204fd0d1182edcd4f
+15,J Balvin,176,75,65,latin,243,11,-6,90,32,17,LA CANCI�N,43,6508ea4204fd0d1182edcd50
+56,Post Malone,90,76,48,dfw rap,158,7,-6,91,5,18,Sunflower - Spider-Man: Into the Spider-Verse,91,6508ea4204fd0d1182edcd51
+18,Y2K,130,84,39,canadian hip hop,161,14,-8,88,8,19,Lalala,50,6508ea4204fd0d1182edcd52
+11,Lizzo,158,72,62,escape room,173,12,-3,91,11,20,Truth Hurts,41,6508ea4204fd0d1182edcd53
+4,MEDUZA,124,68,74,pop house,153,7,-7,91,3,21,Piece Of Your Heart,63,6508ea4204fd0d1182edcd54
+34,Lil Nas X,154,70,59,country rap,115,12,-6,91,8,22,Panini,48,6508ea4204fd0d1182edcd55
+14,Jhay Cortez,92,81,79,reggaeton flow,309,9,-4,83,7,23,No Me Conoce - Remix,58,6508ea4204fd0d1182edcd56
+36,Lunay,92,80,78,latin,266,44,-4,91,4,24,Soltera - Remix,80,6508ea4204fd0d1182edcd57
+25,Billie Eilish,135,67,45,electropop,195,12,-11,89,30,25,bad guy (with Justin Bieber),68,6508ea4204fd0d1182edcd58
+49,Shawn Mendes,124,69,82,canadian pop,191,13,-4,70,6,26,"If I Can't Have You",87,6508ea4204fd0d1182edcd59
+69,Tones and I,98,82,59,australian pop,210,18,-6,83,10,27,Dance Monkey,54,6508ea4204fd0d1182edcd5a
+37,Ali Gatie,96,73,46,canadian hip hop,213,19,-7,89,3,28,"It's You",40,6508ea4204fd0d1182edcd5b
+11,Daddy Yankee,94,74,86,latin,193,6,-3,91,6,29,Con Calma,66,6508ea4204fd0d1182edcd5c
+3,J Balvin,93,64,79,latin,222,36,-4,89,25,30,QUE PRETENDES,94,6508ea4204fd0d1182edcd5d
+12,The Chainsmokers,85,29,51,edm,210,10,-8,84,4,31,Takeaway,36,6508ea4204fd0d1182edcd5e
+59,Ariana Grande,140,78,32,dance pop,179,9,-11,89,33,32,7 rings,33,6508ea4204fd0d1182edcd5f
+22,Maluma,96,78,71,reggaeton,176,9,-5,89,28,33,0.958333333333333,68,6508ea4204fd0d1182edcd60
+2,Young Thug,98,80,59,atl hip hop,200,13,-7,89,15,34,The London (feat. J. Cole & Travis Scott),18,6508ea4204fd0d1182edcd61
+19,Katy Perry,100,77,88,dance pop,224,32,-5,89,6,35,Never Really Over,39,6508ea4204fd0d1182edcd62
+18,Martin Garrix,114,66,72,big room,164,14,-7,89,6,36,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),32,6508ea4204fd0d1182edcd63
+14,Sech,176,75,70,panamanian pop,226,11,-5,91,34,37,Otro Trago,62,6508ea4204fd0d1182edcd64
+13,Ed Sheeran,152,72,82,pop,162,36,-5,87,5,38,Antisocial (with Travis Scott),91,6508ea4204fd0d1182edcd65
+4,Jonas Brothers,138,84,73,boy band,181,11,-5,80,6,39,Sucker,95,6508ea4204fd0d1182edcd66
+48,Lauv,95,81,56,dance pop,199,6,-6,78,7,40,"fuck, i'm lonely (with Anne-Marie) - from �13 Reasons Why: Season 3�",68,6508ea4204fd0d1182edcd67
+2,Kygo,104,69,68,edm,228,10,-7,88,3,41,Higher Love,40,6508ea4204fd0d1182edcd68
+1,Taylor Swift,85,77,68,dance pop,171,7,-6,90,5,42,You Need To Calm Down,73,6508ea4204fd0d1182edcd69
+37,Lady Gaga,96,57,39,dance pop,216,23,-6,87,3,43,Shallow,32,6508ea4204fd0d1182edcd6a
+5,Khalid,136,90,40,pop,198,6,-9,84,13,44,Talk,35,6508ea4204fd0d1182edcd6b
+39,ROSAL�A,98,88,69,r&b en espanol,162,5,-4,88,12,45,Con Altura,75,6508ea4204fd0d1182edcd6c
+7,Marshmello,88,66,62,brostep,182,58,-2,88,5,46,One Thing Right,44,6508ea4204fd0d1182edcd6d
+24,Nicky Jam,176,67,75,latin,202,8,-4,88,6,47,Te Robar�,80,6508ea4204fd0d1182edcd6e
+19,Marshmello,100,69,79,brostep,214,17,-3,88,5,48,Happier,67,6508ea4204fd0d1182edcd6f
+23,The Chainsmokers,104,59,70,edm,218,41,-6,88,3,49,Call You Mine,50,6508ea4204fd0d1182edcd70
+21,Ed Sheeran,95,75,79,pop,206,7,-6,82,12,50,Cross Me (feat. Chance the Rapper & PnB Rock),61,6508ea4204fd0d1182edcd71
